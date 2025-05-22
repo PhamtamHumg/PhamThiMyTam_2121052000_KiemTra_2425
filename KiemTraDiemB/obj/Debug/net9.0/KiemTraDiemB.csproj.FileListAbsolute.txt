@@ -1,0 +1,9 @@
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.csproj.AssemblyReference.cache
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.AssemblyInfoInputs.cache
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.AssemblyInfo.cs
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.csproj.CoreCompileInputs.cache
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.MvcApplicationPartsAssemblyInfo.cache
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.RazorAssemblyInfo.cache
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.RazorAssemblyInfo.cs
+D:\Kiểm tra điểm B_Thầy Hiển\KiemTraDiemB\obj\Debug\net9.0\KiemTraDiemB.sourcelink.json
